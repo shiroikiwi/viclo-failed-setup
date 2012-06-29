@@ -1,0 +1,104 @@
+    1  ls
+    2  ls -l
+    3  python
+    4  sudo apt-get install mysql-server
+    5  sudo netstat -tap | grep mysql
+    6  sudo apt-get install MySQL-python
+    7  pip install MySQL-python
+    8  sudo apt-get install python-pip
+    9  pip install MySQL-python
+   10  pip install -U pip
+   11  sudo pip install MySQL-python
+   12  apt-get install python-dev libmysqlclient-dev
+   13  sudo apt-get install python-dev libmysqlclient-dev
+   14  pip install MySQL-python
+   15  sudo pip install MySQL-python
+   16  ls
+   17  pwd
+   18  ls /
+   19  ls
+   20  pip install virtualenv
+   21  sudo pip install virtualenv
+   22  python virtualenv.py ENV
+   23  virtualenv ENV
+   24  pip install virtualenvwrapper
+   25  sudo pip install virtualenvwrapper
+   26  export WORKON_HOME=~/Envs
+   27  mkdir -p $WORKON_HOME
+   28  source /usr/local/bin/virtualenvwrapper.sh
+   29  mkvirtualenv env1
+   30  pip install django
+   31  lssitepackages
+   32  ls
+   33  pwd
+   34  ls ENV/
+   35  ls Envs/
+   36  ls
+   37  ls Envs/env1/
+   38  ls Envs/env1/local/
+   39  ls ENV/
+   40  ls ENV/lib/
+   41  ls Envs/env1/lib/
+   42  cd Envs/env1/bin/
+   43  ls
+   44  workon env1
+   45  echo $VRTUAL_ENV
+   46  lssitepackages
+   47  ls $WORKON_HOME
+   48  showvirtualenv
+   49  cd Envs/
+   50  ls
+   51  workon env1
+   52  rkon
+   53  workon
+   54  history | grep virtualenvwrapper.sh
+   55  cd 
+   56  ls
+   57  less ~/.bashrc 
+   58  emacs ~/.bashrc
+   59  apt-get install emacs23
+   60  sudo apt-get install emacs23
+   61  emacs /home/ubuntu/.bashrc 
+   62  mkdir ~/.virtualenvs
+   63  source ~/.bashrc
+   64  mkvirtualenv --no-site-packages viclo
+   65  rkon viclo
+   66  workonviclo
+   67  workon viclo
+   68  history > history.txt
+   69  less history.txt 
+   70  sudo apt-get install apache2 libapache2-mod-wsgi
+   71  ls
+   72  ls /srv/
+   73  ls /
+   74  ls /srv/
+   75  sudo mkdir /srv/www
+   76  ls /srv/
+   77  arp -an
+   78  sudo nano /etc/hosts
+   79  sudo mkdir /srv/www/wsgi
+   80  sudo nano /srv/www/wsgi/app.wsgi
+   81  sudo nano /etc/apache2/sites-available/wsgi
+   82  sudo a2ensite wsgi
+   83  sudo /etc/init.d/apache2 reload
+   84  cd /srv/www
+   85  sudo django-admin.py startproject hello
+   86  history | grep django
+   87  sudo pip install django
+   88  ls
+   89  ls wsgi/
+   90  workon viclo
+   91  sudo pip install django
+   92  sudo django-admin.py startproject hello
+   93  ls
+   94  ls hello/
+   95  ls hello/hello/
+   96  sudo mkdir /srv/www/hello/apache
+   97  sudo nano /srv/www/hello/apache/django.wsgi
+   98  sudo nano /etc/apache2/sites-available/hello
+   99  sudo a2ensite hello
+  100  sudo /etc/init.d/apache2 reload
+  101* 
+  102  showvirtualenv viclo
+  103  sudo nano /etc/apache2/sites-available/mysite.com
+  104  history >~/history.txt 

@@ -1,0 +1,394 @@
+------------------------------------------------------------
+/usr/bin/pip run on Tue Jun 26 23:37:05 2012
+Downloading/unpacking virtualenvwrapper
+  Getting page http://pypi.python.org/simple/virtualenvwrapper
+  URLs to search for versions for virtualenvwrapper:
+  * http://pypi.python.org/simple/virtualenvwrapper/
+  Getting page http://www.doughellmann.com/projects/virtualenvwrapper/
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.9.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.8.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.0.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.1.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.12.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.4.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.17.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.0.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.11.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.20.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.14.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.16.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.4.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.6.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.23.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.3.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.3.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.17.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.18.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.2.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.6.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.10.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.25.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.21.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.3.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.27.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.26.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.7.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.5.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.5.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Could not fetch URL http://www.doughellmann.com/downloads/virtualenvwrapper-2.6.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/): HTTP Error 404: Not Found
+  Will skip URL http://www.doughellmann.com/downloads/virtualenvwrapper-2.6.2.tar.gz when looking for download links for virtualenvwrapper
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.5.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.24.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.18.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.5.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.3.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.24.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.0.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.8.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.15.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-2.6.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Skipping page http://www.doughellmann.com/downloads/virtualenvwrapper-1.22.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/) because of Content-Type: application/x-gzip
+  Analyzing links from page http://pypi.python.org/simple/virtualenvwrapper/
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.6.2.tar.gz#md5=5b20b2dc05d36adc1589f381046605eb (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.6.2
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.5.3.tar.gz#md5=7ed6eeab5e0429e73b4440cca3e8ac4f (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.5.3
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.6.1.tar.gz#md5=91a54c14cf38454255b18bf7fba4ed09 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.6.1
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.7.tar.gz#md5=54d622d7dc0c5ac15df6495a3cec8d96 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.7
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.6.tar.gz#md5=ed678ad1043c3b6162a1b526ea18bd06 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.6
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.10.tar.gz#md5=e579e640a2559195851b5220ad7246ea (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.10
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.10.1.tar.gz#md5=36fd2ad8f3a5580954632187b42a621c (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.10.1
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.11.tar.gz#md5=71ed3806bf3c02481e844d2b0dec6f64 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.11
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-3.0.tar.gz#md5=c01ad60aab4912dc7f57236188255489 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 3.0
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.9.tar.gz#md5=4071b24a3656ffd46c14fcce9136e45d (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.9
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-3.4.tar.gz#md5=9d5a7c55667c3286a10bbdc572d62173 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 3.4
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-3.3.tar.gz#md5=7e334cec98d800dcd8e4959502616d16 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 3.3
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-3.0.1.tar.gz#md5=13991893202018c0972b95f7f8fb9451 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 3.0.1
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.6.3.tar.gz#md5=474bcbdac2d509f27aadf5c5ce17428e (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.6.3
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-3.5.tar.gz#md5=69f51d186845b584c0ef09e258818fe7 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 3.5
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.11.1.tar.gz#md5=dc65934feece5fd51fd0454114329392 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.11.1
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-3.1.tar.gz#md5=8a37fc179d3e0239c42cda433a21009a (from http://pypi.python.org/simple/virtualenvwrapper/), version: 3.1
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.8.tar.gz#md5=4998181c67fad05a6429e1ca84d638b1 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.8
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-3.2.tar.gz#md5=58b94ffb2b81baea29fadfd0813057c3 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 3.2
+    Found link http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-2.7.1.tar.gz#md5=b01930b245b2beb9fe2ce69a4b0e0f25 (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.7.1
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pypi.python.org/simple/virtualenvwrapper/); not a file
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.9.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.9
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.8.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.8.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.0.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.0.2
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.1.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.1.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.12.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.12
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.4.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.4
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.17.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.17
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.0.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.0
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.11.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.11
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.20.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.20
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.14.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.14
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.16.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.16
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.4.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.4
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.6.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.6.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.23.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.23
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.3.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.3.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.3.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.3.2
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.17.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.17.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.18.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.18.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.2.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.2.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.6.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.6
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.10.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.10
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.25.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.25
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.2
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.21.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.21
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.3.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.3
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.27.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.27
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.26.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.26
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.7.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.7
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.5.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.5.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.5.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.5
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.6.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.6.2
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.5.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.5.2
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.2
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.24.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.24
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.18.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.18
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.5.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.5
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.3.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.3
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.24.2.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.24.2
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.0.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.0.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.8.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.8
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.15.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.15
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-2.6.1.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 2.6.1
+    Found link http://www.doughellmann.com/downloads/virtualenvwrapper-1.22.tar.gz (from http://pypi.python.org/simple/virtualenvwrapper/), version: 1.22
+    Skipping link http://bitbucket.org/dhellmann/virtualenvwrapper/ (from http://pypi.python.org/simple/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/docs/virtualenvwrapper/history.html (from http://pypi.python.org/simple/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://shunit2.googlecode.com/ (from http://pypi.python.org/simple/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/articles/CompletelyDifferent-2008-05-virtualenvwrapper/index.html (from http://pypi.python.org/simple/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://www.doughellmann.com/docs/virtualenvwrapper/developers.html (from http://pypi.python.org/simple/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://groups.google.com/group/virtualenvwrapper/ (from http://pypi.python.org/simple/virtualenvwrapper/); not a file
+    Skipping link http://mathematism.com/2009/jul/30/presentation-pip-and-virtualenv/ (from http://pypi.python.org/simple/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/docs/virtualenvwrapper/ (from http://pypi.python.org/simple/virtualenvwrapper/); not a file
+  Analyzing links from page http://www.doughellmann.com/projects/virtualenvwrapper/
+    Skipping link http://www.doughellmann.com/_static/default.css (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .css
+    Skipping link http://www.doughellmann.com/_static/css/leaves.css (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .css
+    Skipping link http://feeds.feedburner.com/DougHellmann (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://feeds.feedburner.com/DougHellmann-Releases (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://feeds.feedburner.com/DougHellmannLinkBlog (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/index.html (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://www.doughellmann.com/PyMOTW/ (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://blog.doughellmann.com/ (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/articles/index.html (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://www.doughellmann.com/books/index.html (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://www.doughellmann.com/projects/index.html (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://code.doughellmann.com/ (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/about/index.html (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://www.doughellmann.com/genindex.html (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .html
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/#features (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/#installation (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/#upgrading-from-1-x (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/#support (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/#documentation-and-history (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/#license (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/#virtualenvwrapper (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenvwrapper (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link https://bitbucket.org/dhellmann/virtualenvwrapper (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link https://bitbucket.org/dhellmann/virtualenvwrapper/issues/ (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://www.addthis.com/bookmark.php (from http://www.doughellmann.com/projects/virtualenvwrapper/); unknown archive format: .php
+    Skipping link http://sphinx.pocoo.org/ (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+    Skipping link http://smallpark.org (from http://www.doughellmann.com/projects/virtualenvwrapper/); not a file
+  Using version 3.5 (newest of versions: 3.5, 3.4, 3.3, 3.2, 3.1, 3.0.1, 3.0, 2.11.1, 2.11, 2.10.1, 2.10, 2.9, 2.8, 2.7.1, 2.7, 2.6.3, 2.6.2, 2.6.2, 2.6.1, 2.6.1, 2.6, 2.5.3, 2.5.2, 2.5.1, 2.5, 2.4, 2.3, 2.2.1, 2.2, 2.1.1, 2.1, 2.0.2, 2.0.1, 2.0, 1.27, 1.26, 1.25, 1.24.2, 1.24, 1.23, 1.22, 1.21, 1.20, 1.18.1, 1.18, 1.17.1, 1.17, 1.16, 1.15, 1.14, 1.12, 1.11, 1.10, 1.9, 1.8.1, 1.8, 1.7, 1.6.1, 1.6, 1.5, 1.4, 1.3.2, 1.3.1, 1.3, 1.2, 1.1)
+  Downloading from URL http://pypi.python.org/packages/source/v/virtualenvwrapper/virtualenvwrapper-3.5.tar.gz#md5=69f51d186845b584c0ef09e258818fe7 (from http://pypi.python.org/simple/virtualenvwrapper/)
+  Running setup.py egg_info for package virtualenvwrapper
+    running egg_info
+    creating pip-egg-info/virtualenvwrapper.egg-info
+    writing requirements to pip-egg-info/virtualenvwrapper.egg-info/requires.txt
+    writing pip-egg-info/virtualenvwrapper.egg-info/PKG-INFO
+    writing namespace_packages to pip-egg-info/virtualenvwrapper.egg-info/namespace_packages.txt
+    writing top-level names to pip-egg-info/virtualenvwrapper.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/virtualenvwrapper.egg-info/dependency_links.txt
+    writing entry points to pip-egg-info/virtualenvwrapper.egg-info/entry_points.txt
+    writing manifest file 'pip-egg-info/virtualenvwrapper.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'pip-egg-info/virtualenvwrapper.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/virtualenvwrapper.egg-info/SOURCES.txt'
+Requirement already satisfied (use --upgrade to upgrade): virtualenv in /usr/local/lib/python2.7/dist-packages (from virtualenvwrapper)
+Downloading/unpacking virtualenv-clone (from virtualenvwrapper)
+  Getting page http://pypi.python.org/simple/virtualenv-clone
+  URLs to search for versions for virtualenv-clone (from virtualenvwrapper):
+  * http://pypi.python.org/simple/virtualenv-clone/
+  Getting page http://github.com/edwardgeorge/virtualenv-clone
+  Analyzing links from page http://pypi.python.org/simple/virtualenv-clone/
+    Found link http://pypi.python.org/packages/source/v/virtualenv-clone/virtualenv-clone-0.1.2.tar.gz#md5=b0a65b6d556bcbab3e281f5443a66a2d (from http://pypi.python.org/simple/virtualenv-clone/), version: 0.1.2
+    Found link http://pypi.python.org/packages/source/v/virtualenv-clone/virtualenv-clone-0.2.1.tar.gz#md5=8a6f99b6675d27920eb0bbae420d239f (from http://pypi.python.org/simple/virtualenv-clone/), version: 0.2.1
+    Found link http://pypi.python.org/packages/source/v/virtualenv-clone/virtualenv-clone-0.2.0.tar.gz#md5=9248f98d32836133862704e005f6820d (from http://pypi.python.org/simple/virtualenv-clone/), version: 0.2.0
+    Found link http://pypi.python.org/packages/source/v/virtualenv-clone/virtualenv-clone-0.2.2.tar.gz#md5=05a43cd884bcf80cdf2ccd16c346028d (from http://pypi.python.org/simple/virtualenv-clone/), version: 0.2.2
+    Found link http://pypi.python.org/packages/source/v/virtualenv-clone/virtualenv-clone-0.2.4.tar.gz#md5=71168b975eaaa91e65559bcc79290b3b (from http://pypi.python.org/simple/virtualenv-clone/), version: 0.2.4
+    Found link http://pypi.python.org/packages/source/v/virtualenv-clone/virtualenv-clone-0.2.3.tar.gz#md5=16394b2d0c47035ab1c3deb2dfb4d2e3 (from http://pypi.python.org/simple/virtualenv-clone/), version: 0.2.3
+    Skipping link http://github.com/edwardgeorge/virtualenv-clone (from http://pypi.python.org/simple/virtualenv-clone/); not a file
+  Analyzing links from page https://github.com/edwardgeorge/virtualenv-clone
+    Skipping link https://github.com/opensearch.xml (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .xml
+    Skipping link https://github.com/fluidicon.png (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .png
+    Skipping link https://github.com/favicon.ico (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .ico
+    Skipping link https://a248.e.akamai.net/assets.github.com/stylesheets/bundles/github-e8f5f586a0ba40f38d0763e7430e410fca5f4ac9.css (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .css
+    Skipping link https://a248.e.akamai.net/assets.github.com/stylesheets/bundles/github2-27fd7716e0bafa52297f37784a2d549774dc1969.css (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .css
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/tree/34bca8d624d2714fca8bad29f76a012ea2653aca (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commits/master.atom (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .atom
+    Skipping link https://github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/plans (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/explore (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/features (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/blog (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/login?return_to=%2Fedwardgeorge%2Fvirtualenv-clone (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/watchers (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/network (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/pulls (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/issues (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/graphs (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/languages/Python (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone#readme (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/zipball/master (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone.git (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .git
+    Skipping link git://github.com/edwardgeorge/virtualenv-clone.git (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .git
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/dismiss-tree-finder-help (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/tags (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/downloads (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link javascript:; (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/tree/lastreleasedversion (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/tree/master (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commits/master (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/branches (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commit/34bca8d624d2714fca8bad29f76a012ea2653aca (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commits/master/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/tree/34bca8d624d2714fca8bad29f76a012ea2653aca/tests (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commit/e5b1350f543a9b02289200d76fe3f755c81a2064 (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/blob/34bca8d624d2714fca8bad29f76a012ea2653aca/LICENSE (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commit/2218b0973f4b4c5bd573b4e6794571046509a47a (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/blob/34bca8d624d2714fca8bad29f76a012ea2653aca/README (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commit/683d2dd212d44a7696e19f3169a7a9113be0312d (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/blob/34bca8d624d2714fca8bad29f76a012ea2653aca/clonevirtualenv.py (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .py
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/blob/34bca8d624d2714fca8bad29f76a012ea2653aca/setup.py (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .py
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commit/f5e0a03ace3986007f3ac16b664d31c760a306d0 (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/blob/34bca8d624d2714fca8bad29f76a012ea2653aca/tox.ini (from https://github.com/edwardgeorge/virtualenv-clone); unknown archive format: .ini
+    Skipping link https://github.com/edwardgeorge/virtualenv-clone/commit/cf822731c4d64bdcfdcaa605c87eecc9df360577 (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/barberj (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/about (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/contact (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/training (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://enterprise.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://status.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://get.gaug.es/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://speakerdeck.com (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://gist.github.com (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://mac.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://windows.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://mobile.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://jobs.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://shop.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://octodex.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://help.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://developer.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://github.github.com/github-flavored-markdown/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://pages.github.com/ (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/site/terms (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/site/privacy (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link https://github.com/security (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://www.rackspace.com (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://www.rackspace.com%20 (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Skipping link http://www.rackspacecloud.com (from https://github.com/edwardgeorge/virtualenv-clone); not a file
+    Could not parse version from link: http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip (from https://github.com/edwardgeorge/virtualenv-clone)
+    Skipping link http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip (from https://github.com/edwardgeorge/virtualenv-clone); wrong project name (not virtualenv-clone)
+    Could not parse version from link: http://github-media-downloads.s3.amazonaws.com/Octocats.zip (from https://github.com/edwardgeorge/virtualenv-clone)
+    Skipping link http://github-media-downloads.s3.amazonaws.com/Octocats.zip (from https://github.com/edwardgeorge/virtualenv-clone); wrong project name (not virtualenv-clone)
+  Using version 0.2.4 (newest of versions: 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.2)
+  Downloading virtualenv-clone-0.2.4.tar.gz
+  Downloading from URL http://pypi.python.org/packages/source/v/virtualenv-clone/virtualenv-clone-0.2.4.tar.gz#md5=71168b975eaaa91e65559bcc79290b3b (from http://pypi.python.org/simple/virtualenv-clone/)
+  Running setup.py egg_info for package virtualenv-clone
+    running egg_info
+    creating pip-egg-info/virtualenv_clone.egg-info
+    writing pip-egg-info/virtualenv_clone.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/virtualenv_clone.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/virtualenv_clone.egg-info/dependency_links.txt
+    writing entry points to pip-egg-info/virtualenv_clone.egg-info/entry_points.txt
+    writing manifest file 'pip-egg-info/virtualenv_clone.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'pip-egg-info/virtualenv_clone.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/virtualenv_clone.egg-info/SOURCES.txt'
+  Source in ./build/virtualenv-clone has version 0.2.4, which satisfies requirement virtualenv-clone (from virtualenvwrapper)
+Installing collected packages: virtualenvwrapper, virtualenv-clone
+  Running setup.py install for virtualenvwrapper
+    Running command /usr/bin/python -c "import setuptools;__file__='/home/ubuntu/build/virtualenvwrapper/setup.py';exec(compile(open(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --single-version-externally-managed --record /tmp/pip-l38Ij7-record/install-record.txt
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-x86_64-2.7
+    creating build/lib.linux-x86_64-2.7/virtualenvwrapper
+    copying virtualenvwrapper/user_scripts.py -> build/lib.linux-x86_64-2.7/virtualenvwrapper
+    copying virtualenvwrapper/project.py -> build/lib.linux-x86_64-2.7/virtualenvwrapper
+    copying virtualenvwrapper/__init__.py -> build/lib.linux-x86_64-2.7/virtualenvwrapper
+    copying virtualenvwrapper/hook_loader.py -> build/lib.linux-x86_64-2.7/virtualenvwrapper
+    running egg_info
+    writing requirements to virtualenvwrapper.egg-info/requires.txt
+    writing virtualenvwrapper.egg-info/PKG-INFO
+    writing namespace_packages to virtualenvwrapper.egg-info/namespace_packages.txt
+    writing top-level names to virtualenvwrapper.egg-info/top_level.txt
+    writing dependency_links to virtualenvwrapper.egg-info/dependency_links.txt
+    writing entry points to virtualenvwrapper.egg-info/entry_points.txt
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'virtualenvwrapper.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'virtualenvwrapper.egg-info/SOURCES.txt'
+    running build_scripts
+    creating build/scripts-2.7
+    copying virtualenvwrapper.sh -> build/scripts-2.7
+    copying virtualenvwrapper_lazy.sh -> build/scripts-2.7
+    changing mode of build/scripts-2.7/virtualenvwrapper.sh from 664 to 775
+    changing mode of build/scripts-2.7/virtualenvwrapper_lazy.sh from 664 to 775
+    running install_lib
+    copying virtualenvwrapper/user_scripts.py -> /usr/local/lib/python2.7/dist-packages/virtualenvwrapper
+    error: /usr/local/lib/python2.7/dist-packages/virtualenvwrapper: Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools;__file__='/home/ubuntu/build/virtualenvwrapper/setup.py';exec(compile(open(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --single-version-externally-managed --record /tmp/pip-l38Ij7-record/install-record.txt:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-x86_64-2.7
+
+creating build/lib.linux-x86_64-2.7/virtualenvwrapper
+
+copying virtualenvwrapper/user_scripts.py -> build/lib.linux-x86_64-2.7/virtualenvwrapper
+
+copying virtualenvwrapper/project.py -> build/lib.linux-x86_64-2.7/virtualenvwrapper
+
+copying virtualenvwrapper/__init__.py -> build/lib.linux-x86_64-2.7/virtualenvwrapper
+
+copying virtualenvwrapper/hook_loader.py -> build/lib.linux-x86_64-2.7/virtualenvwrapper
+
+running egg_info
+
+writing requirements to virtualenvwrapper.egg-info/requires.txt
+
+writing virtualenvwrapper.egg-info/PKG-INFO
+
+writing namespace_packages to virtualenvwrapper.egg-info/namespace_packages.txt
+
+writing top-level names to virtualenvwrapper.egg-info/top_level.txt
+
+writing dependency_links to virtualenvwrapper.egg-info/dependency_links.txt
+
+writing entry points to virtualenvwrapper.egg-info/entry_points.txt
+
+warning: manifest_maker: standard file '-c' not found
+
+
+
+reading manifest file 'virtualenvwrapper.egg-info/SOURCES.txt'
+
+reading manifest template 'MANIFEST.in'
+
+writing manifest file 'virtualenvwrapper.egg-info/SOURCES.txt'
+
+running build_scripts
+
+creating build/scripts-2.7
+
+copying virtualenvwrapper.sh -> build/scripts-2.7
+
+copying virtualenvwrapper_lazy.sh -> build/scripts-2.7
+
+changing mode of build/scripts-2.7/virtualenvwrapper.sh from 664 to 775
+
+changing mode of build/scripts-2.7/virtualenvwrapper_lazy.sh from 664 to 775
+
+running install_lib
+
+copying virtualenvwrapper/user_scripts.py -> /usr/local/lib/python2.7/dist-packages/virtualenvwrapper
+
+error: /usr/local/lib/python2.7/dist-packages/virtualenvwrapper: Permission denied
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools;__file__='/home/ubuntu/build/virtualenvwrapper/setup.py';exec(compile(open(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --single-version-externally-managed --record /tmp/pip-l38Ij7-record/install-record.txt failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 126, in main
+    self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 228, in run
+    requirement_set.install(install_options, global_options)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1093, in install
+    requirement.install(install_options, global_options)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 566, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.7/dist-packages/pip/__init__.py", line 255, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools;__file__='/home/ubuntu/build/virtualenvwrapper/setup.py';exec(compile(open(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --single-version-externally-managed --record /tmp/pip-l38Ij7-record/install-record.txt failed with error code 1

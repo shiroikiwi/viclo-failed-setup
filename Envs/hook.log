@@ -1,0 +1,35 @@
+2012-06-26 23:37:59,535 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
+2012-06-26 23:37:59,539 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/initialize
+2012-06-26 23:37:59,539 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/premkvirtualenv
+2012-06-26 23:37:59,540 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/postmkvirtualenv
+2012-06-26 23:37:59,540 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/prermvirtualenv
+2012-06-26 23:37:59,541 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/postrmvirtualenv
+2012-06-26 23:37:59,541 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/predeactivate
+2012-06-26 23:37:59,541 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/postdeactivate
+2012-06-26 23:37:59,541 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/preactivate
+2012-06-26 23:37:59,542 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/postactivate
+2012-06-26 23:37:59,542 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/get_env_details
+2012-06-26 23:37:59,542 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/premkproject
+2012-06-26 23:37:59,543 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/postmkproject
+2012-06-26 23:37:59,543 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/prermproject
+2012-06-26 23:37:59,543 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/postrmproject
+2012-06-26 23:37:59,546 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-p0ry1T2cWi
+2012-06-26 23:38:09,374 DEBUG virtualenvwrapper.hook_loader Running pre_mkvirtualenv hooks
+2012-06-26 23:38:09,378 DEBUG virtualenvwrapper.user_scripts pre_mkvirtualenv ['env1']
+2012-06-26 23:38:09,378 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/env1/bin/predeactivate
+2012-06-26 23:38:09,379 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/env1/bin/postdeactivate
+2012-06-26 23:38:09,379 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/env1/bin/preactivate
+2012-06-26 23:38:09,379 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/env1/bin/postactivate
+2012-06-26 23:38:09,380 INFO virtualenvwrapper.user_scripts creating /home/ubuntu/Envs/env1/bin/get_env_details
+2012-06-26 23:38:09,380 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/Envs/premkvirtualenv', 'env1']
+2012-06-26 23:38:09,431 DEBUG virtualenvwrapper.hook_loader Saving sourcable pre_mkvirtualenv hooks to /tmp/virtualenvwrapper-pre_mkvirtualenv-hook-43CVVlUlv1
+2012-06-26 23:38:09,542 DEBUG virtualenvwrapper.hook_loader Running pre_activate hooks
+2012-06-26 23:38:09,546 DEBUG virtualenvwrapper.user_scripts pre_activate
+2012-06-26 23:38:09,546 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/Envs/preactivate', 'env1']
+2012-06-26 23:38:09,554 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/Envs/env1/bin/preactivate', 'env1']
+2012-06-26 23:38:09,564 DEBUG virtualenvwrapper.hook_loader Saving sourcable pre_activate hooks to /tmp/virtualenvwrapper-pre_activate-hook-BeedUX7j9K
+2012-06-26 23:38:09,699 DEBUG virtualenvwrapper.hook_loader Running post_activate hooks
+2012-06-26 23:38:09,703 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_activate hooks to /tmp/virtualenvwrapper-post_activate-hook-NKerBTn6Rg
+2012-06-26 23:38:09,706 DEBUG virtualenvwrapper.user_scripts post_activate
+2012-06-26 23:38:09,813 DEBUG virtualenvwrapper.hook_loader Running post_mkvirtualenv hooks
+2012-06-26 23:38:09,818 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_mkvirtualenv hooks to /tmp/virtualenvwrapper-post_mkvirtualenv-hook-ZrK69Q1U44

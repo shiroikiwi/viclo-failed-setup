@@ -106,3 +106,118 @@ less ~/history.txt
 sudo mkdir /srv/www/wsgi
 sudo nano /srv/www/wsgi/app.wsgi
 sudo nano /etc/apache2/sites-available/wsgi
+django-admin.py startproject viclo
+sudo nano /etc/apache2/sites-available/viclo.shiroikiwi.com
+nano /home/demo/public_html/mysite.com/mysite.wsgi
+nano /home/demo/public_html/viclo.shiroikiwi.com/mysite.wsgi
+ls -l
+mv viclo/ /srv/
+sudo mv viclo/ /srv/
+ls
+ls /srv/
+s /etc/apache2/sites-available/
+ls /etc/apache2/sites-available/
+sudo nano /etc/apache2/sites-available/viclo.shiroikiwi.com
+sudo nano /home/demo/public_html/viclo.shiroikiwi.com/viclo.shiroikiwi.com.wsgi
+sudo nano /home/ubuntu/public_html/viclo.shiroikiwi.com/viclo.shiroikiwi.com.wsgi
+ls /srv/www/
+ls /srv/www/wsgi/
+ls /srv/
+ls /srv/viclo/
+rm -rv /srv/viclo/
+rm -rfv /srv/viclo/
+sudo rm -rfv /srv/viclo/
+sudo rm -rv /srv/www/*
+ls
+history | grep wsgi
+ls /home/
+ls /etc/apache2/
+ls /etc/apache2/sites-available/
+sudo rm -rv /etc/apache2/sites-available/hello 
+sudo rm -rv /etc/apache2/sites-available/viclo.shiroikiwi.com 
+sudo rm -rv /etc/apache2/sites-available/wsgi 
+ls -R | grep httpd.conf
+ls -R / | grep httpd.conf
+ls
+ls -l
+l
+l -a
+find site-packages
+file site-packages
+workon viclo
+sudo pip install django
+which django-admin.py 
+sudo apt-get install git
+ls Envs/env1/
+ls ENV/bin/
+ls Envs/env1/bin/
+ls
+ls /
+ls /bin/
+which django-admin.py 
+ls /usr/
+ls /usr/local/bin/
+ls
+django-admin.py startproject viclo
+git init
+git add .
+git status
+git commit -m "initial commit"
+git remote add origin https://github.com/shiroikiwi/viclo.git
+git push origin master
+git remote add origin https://github.com/shiroikiwi/viclo.git
+git push -u origin master
+git config --global user.email "rachel@shiroikiwi.com"
+git config --global user.email
+git config --global user.name "shiroikiwi"
+pip install south
+ls
+cd viclo/
+ls
+ls viclo/
+emacs viclo/settings.py 
+mysql
+ls
+ls
+exit
+ls
+history | tail
+mysqladmin create viclo
+sudo mysqladmin create viclo
+mysql_secure_installaion
+mysql_secure_installation
+sudo mysqladmin create viclo
+sudo mysqladmin -u root -p create viclo
+emacs viclo/settings.py 
+ls
+cd viclo/
+ls
+emacs viclo/settings.py 
+python manage.py syncdb
+cd ..
+python manage.py syncdb
+cd viclo/
+less manage.py 
+workon viclo
+python manage.py syncdb
+echo $PATH
+which django
+echo $PYTHONPATH
+pythong import django
+python import django
+pythong
+python
+find / | grep django
+echo $PATH
+ls
+pip install django
+python manage.py syncdb
+emacs viclo/settings.py 
+mysql
+pip install mysql
+sudo mysql
+mysql -u root -p
+emacs viclo/settings.py 
+python manage.py syncdb
+emacs viclo/settings.py 
+python manage.py syncdb
